@@ -1,3 +1,14 @@
+#left_container, #buyers_ad, #asltable, #flashcontent, #show_chat_btn, .profile_text, .bottombar, table  {
+    display:none;
+}
+#wrapper {
+  position: absolute;
+  top:0; left:0;
+  width:100%;
+  height: 100%;
+  overflow:hidden;
+}
+
 body {
   background-color: powderblue;
 }
