@@ -1,7 +1,7 @@
-#left_container, #buyers_ad, #asltable, #flashcontent, #show_chat_btn, .profile_text, .bottombar, table  {
+left_container, buyers_ad, asltable, flashcontent, show_chat_btn, .profile_text, .bottombar, table  {
     display:none;
 }
-#wrapper {
+wrapper {
   position: absolute;
   top:0; left:0;
   width:100%;
