@@ -1,6 +1,3 @@
-left_container, buyers_ad, asltable, flashcontent, show_chat_btn, profile_text, bottombar, table, flash_emb, show_chat_btn, outer_container {
-    display:none;
-}
 #wrapper {
   position: absolute;
   top:0; left:0;
@@ -10,7 +7,7 @@ left_container, buyers_ad, asltable, flashcontent, show_chat_btn, profile_text, 
 }
 
 body {
-  background-color: powderpurple;
+  background-color: purple;
 }
 h1 {
   color: blue;
