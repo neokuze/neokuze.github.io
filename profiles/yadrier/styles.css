@@ -1,0 +1,20 @@
+left_container, buyers_ad, asltable, flashcontent, show_chat_btn, profile_text, bottombar, table, flash_emb, show_chat_btn, outer_container {
+    display:none;
+}
+#wrapper {
+  position: absolute;
+  top:0; left:0;
+  width:100%;
+  height: 100%;
+  overflow:hidden;
+}
+
+body {
+  background-color: powderpurple;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
